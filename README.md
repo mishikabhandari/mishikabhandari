@@ -17,7 +17,7 @@
 <li>Always eager to learn new tech and improve coding skills</li>
 
 <li>Committed to building impactful and scalable applications</li>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishikabhandari" alt="mishikabhandari" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mishikabha88200" target="blank"><img src="https://img.shields.io/twitter/follow/mishikabha88200?logo=twitter&style=for-the-badge" alt="mishikabha88200" /></a> </p>

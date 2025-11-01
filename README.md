@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mishikabhandaris@gmail.com**
 
-- ⚡ Fun fact **I love Adventures.**
+- ⚡ Fun fact **I love Adventures and exploring new challenges. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

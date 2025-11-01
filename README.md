@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mishika Bhandari</h1>
 <h3 align="center">Aspiring Java Developer from India</h3>
+<p><li>Pre-final year B.Tech student in Computer Science Engineering
+
+Passionate about Java development with hands-on Spring Boot experience
+
+Skilled in front-end technologies: HTML, CSS, JavaScript
+
+Strong focus on data structures and algorithms for efficient coding
+
+Hacktoberfest Super Contributor with 6+ merged pull requests
+
+Active open source participant and collaborator
+
+Always eager to learn new tech and improve coding skills
+
+Committed to building impactful and scalable applications</li></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishikabhandari&label=Profile%20views&color=0e75b6&style=flat" alt="mishikabhandari" /> </p>
 

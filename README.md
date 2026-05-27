@@ -136,7 +136,7 @@ class MishikaBhandari:
 - Analytics-focused project
 
 ### Tech Used
-`Python` • `SQL`
+`Python` 
 
 </td>
 </tr>

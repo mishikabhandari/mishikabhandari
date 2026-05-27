@@ -1,47 +1,166 @@
-<h1 align="center">Hi 👋, I'm Mishika Bhandari</h1>
-<h3 align="center">Aspiring Java Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishikabhandari&label=Profile%20views&color=0e75b6&style=flat" alt="mishikabhandari" /> </p>
+<!-- ======================= PROFILE HEADER ======================= -->
 
-<li>Pre-final year B.Tech student in Computer Science Engineering</li>
+<h1 align="center">Hey there 👋, I'm Mishika Bhandari</h1>
 
-<li>Passionate about Java development with hands-on Spring Boot experience</li>
+<h3 align="center">
+🚀 Aspiring Software Developer | Python Enthusiast | Data & Analytics Learner from India 🇮🇳
+</h3>
 
-<li>Skilled in front-end technologies: HTML, CSS, JavaScript</li>
-
-<li>Strong focus on data structures and algorithms for efficient coding</li>
-
-<li>Hacktoberfest Super Contributor with 6+ merged pull requests</li>
-
-<li>Active open source participant and collaborator</li>
-
-<li>Always eager to learn new tech and improve coding skills</li>
-
-<li>Committed to building impactful and scalable applications</li>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishikabhandari" alt="mishikabhandari" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mishikabha88200" target="blank"><img src="https://img.shields.io/twitter/follow/mishikabha88200?logo=twitter&style=for-the-badge" alt="mishikabha88200" /></a> </p>
-
-- 🌱 I’m currently learning **Java with DSA and Spring boot**
-
-- 💬 Ask me about **HTML5,CSS,Tailwind CSS, Javascript**
-
-- 📫 How to reach me **mishikabhandaris@gmail.com**
-
-- ⚡ Fun fact **I love Adventures.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mishikabha88200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mishikabha88200" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mishikabhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishikabhandari" height="30" width="40" /></a>
-<a href="https://discord.gg/mishikabhandari." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mishikabhandari." height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mishikabhandari&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="mishikabhandari" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/mishikabhandari">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Python+%7C+SQL+%7C+Power+BI;Frontend+Developer;Open+Source+Contributor;Building+Projects+%26+Learning+Everyday+🚀" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishikabhandari&show_icons=true&locale=en&layout=compact" alt="mishikabhandari" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishikabhandari&show_icons=true&locale=en" alt="mishikabhandari" /></p>
+# 💫 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishikabhandari&" alt="mishikabhandari" /></p>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 Pre-final year B.Tech student in Computer Science Engineering  
+
+💻 Passionate about software development, problem-solving, and analytics  
+
+🐍 Currently focused on **Python, SQL, and Power BI**  
+
+🌐 Skilled in **HTML, CSS, JavaScript, and Tailwind CSS**  
+
+📊 Interested in **data visualization and business intelligence**  
+
+🧠 Strong focus on **Data Structures & Algorithms**  
+
+🏆 Hacktoberfest Super Contributor with **6+ merged PRs**  
+
+🤝 Open-source contributor and active tech learner  
+
+🚀 Love building impactful and scalable projects  
+
+⚡ Fun fact: **I love adventures and exploring new technologies!**
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Python
+- SQL Optimization
+- Power BI Dashboards
+- Data Structures & Algorithms
+- Git & GitHub Collaboration
+
+---
+
+# 💬 Ask Me About
+
+```yaml
+Frontend Development:
+  - HTML5
+  - CSS3
+  - Tailwind CSS
+  - JavaScript
+
+Programming:
+  - Python
+  - SQL
+
+Tools:
+  - Git
+  - GitHub
+  - Power BI
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://twitter.com/mishikabha88200" target="blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/mishikabhandari" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mishikabhandaris@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/mishikabhandari." target="blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,mysql,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 📚 Library Management System
+> Console-based Python project for managing books, issue/return operations, and availability tracking.
+
+## 📊 Student Record Analyzer
+> Python-based analytics project for managing and analyzing student performance data.
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mishikabhandari&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mishikabhandari&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mishikabhandari&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishikabhandari&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishikabhandari&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# ✨ Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">⭐ Code • Learn • Build • Repeat ⭐</h3>
